@@ -18,3 +18,7 @@ ul {
   .navigation__search {
     flex: 1;
     margin-right: auto; }
+
+.landing {
+  grid-column: col-start 6 / span 2;
+  text-align: center; }
